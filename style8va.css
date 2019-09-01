@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body { 
   margin:0;
@@ -35,4 +35,40 @@ img{
   width: 200px;
   height: 200px;
   display: inline-block;
+}
+
+.portfolio{
+  color: #343a40;
+  font-family: "montserrat", sans-serif;
+  text-align: center;
+}
+
+hr{
+  width: 55px;
+}
+
+.img-portfolio{
+  display: inline-block;
+  margin-top: 5px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.about{
+  color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
+  background-color:#1abc9c;
+  text-align: center;
+  padding-top: 30px;
+}
+
+hr{
+  width: 55;
+}
+
+.parrafos{
+  display: inline-block;
+  text-align: left;
+  width: 300px;
+  margin-bottom: 50px;
 }
